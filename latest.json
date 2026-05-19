@@ -1,5 +1,5 @@
 {
-  "version": "1.0.9",
-  "download_url": "https://github.com/channaofficial1996/Chrome-Profile-Manager/releases/download/v1.0.9/ChromeControl-Setup-1.0.9.exe",
-  "notes": "ផ្លាស់ប្តូរ UI: Contact / License / Version ទៅជា bottom bar"
+  "version": "1.0.10",
+  "download_url": "https://github.com/channaofficial1996/Chrome-Profile-Manager/releases/download/v1.0.10/ChromeControl-Setup-1.0.10.exe",
+  "notes": "ដោះស្រាយ error 'Failed to load Python DLL' (បិទ UPX compression)"
 }
