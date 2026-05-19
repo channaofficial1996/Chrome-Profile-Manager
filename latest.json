@@ -1,12 +1,12 @@
 {
-  "version": "1.1.0",
+  "version": "1.0.2",
   "released": "2026-05-19",
-  "download_url": "https://github.com/channaofficial1996/Chrome-Profile-Manager/releases/download/v1.1.0/CamboAdsSetup.exe",
+  "download_url": "https://github.com/channaofficial1996/Chrome-Profile-Manager/releases/download/v1.0.2/ChromeControl-Setup-1.0.2.exe",
   "mandatory": false,
   "notes": [
-    "ជួសជុល៖ Edit profile ធ្លាប់រលត់ tool ពេល Chrome នៅបើក",
-    "ថ្មី៖ ប្រព័ន្ធ Auto-update ផ្ញើ notification ដល់ user",
-    "កែលម្អ៖ Validate name ទទេ និងពិនិត្យ folder ស្ទួន",
-    "កែលម្អ៖ Edit រក្សា phone/proxy/window-position មិនបាត់ទៀត"
+    "ជួសជុល Bug: Icon លើប៊ូតុង (Add, Edit, 2FA, Backup, Delete) មិនបង្ហាញត្រឹមត្រូវ",
+    "ជួសជុល Bug: អក្សរខ្មែរក្នុង Update popup ខូច font",
+    "ប្រសើរឡើង: Build script លែង corrupt encoding",
+    "បន្ថែម: Auto-version bump ពេល build"
   ]
 }
