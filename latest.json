@@ -1,11 +1,10 @@
 {
-  "version": "1.0.3",
+  "version": "1.0.4",
   "released": "2026-05-19",
   "download_url": "https://github.com/channaofficial1996/Chrome-Profile-Manager/releases/download/v1.0.3/ChromeControl-Setup-1.0.3.exe",
   "mandatory": false,
   "notes": [
-    "🔧 ជួសជុល Icon នៅលើ button (✏️ Edit, 🗑️ Delete, 🔑 License)",
-    "🔧 ជួសជុលអក្សរខ្មែរនៅក្នុង popup ពិនិត្យ Version",
-    "✨ ប្រព័ន្ធពិនិត្យ Update ស្ថិរភាពជាងមុន"
+    "🧪 Test popup - ប្រសិនបើអ្នកឃើញ popup នេះ មានន័យថា auto-update ដំណើរការល្អ!",
+    "📝 មិនមាន update ពិតប្រាកដទេ — គ្រាន់តែជា test"
   ]
 }
