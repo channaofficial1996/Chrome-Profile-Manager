@@ -1,5 +1,10 @@
 {
-  "version": "1.0.12",
-  "download_url": "https://github.com/channaofficial1996/Chrome-Profile-Manager/releases/download/v1.0.12/ChromeControl-Setup-1.0.12.exe",
-  "notes": "ធ្វើអោយផ្ទាំង Update Popup ស្អាត Official: អក្សរខ្មែរ-អង់គ្លេសទំហំស្មើគ្នា (font Leelawadee UI), និងបន្ថែមសំឡេងជូនដំណឹងពេលមាន Version ថ្មី"
-}
+  "version": "1.0.13",
+  "released": "21 May 2026",
+  "download_url": "https://github.com/channaofficial1996/Chrome-Profile-Manager/releases/download/v1.0.13/ChromeControl-Setup-1.0.13.exe",
+  "notes": [
+    "🎨 ប៊ូតុង Chrome និង Telegram Tab ប្រើ Logo Official (Chrome Ring + Telegram Plane)",
+    "▶️ ប៊ូតុង Open/Close ប្រើ Icon ស្អាត (Play Triangle / Stop Square)",
+    "🔧 កែបញ្ហា Telegram Single-Instance: ប៊ូតុង Open ត្រឡប់ត្រឹមត្រូវ ពេលបិទ App",
+    "🔍 ប្រើ wmic process tracking ដើម្បីតាមដាន Telegram PID តាម -workdir"
+  ]
