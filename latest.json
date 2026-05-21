@@ -1,12 +1,13 @@
 {
-  "version": "1.0.14",
+  "version": "1.0.15",
   "released": "21 May 2026",
-  "download_url": "https://github.com/channaofficial1996/Chrome-Profile-Manager/releases/download/v1.0.14/ChromeControl-Setup-1.0.14.exe",
+  "download_url": "https://github.com/channaofficial1996/Chrome-Profile-Manager/releases/download/v1.0.15/ChromeControl-Setup-1.0.15.exe",
   "notes": [
-    "🗂️ ប្តូរពាក្យ Customer ទៅ Folder គ្រប់ទីកន្លែង (Sidebar, Filter, Dialog, Table)",
+    "� Fix: ពេល Add Profile (platform ផ្សេងពី tab កំពុង active) មិនបង្ហាញក្នុង list",
+    "🔀 Auto-switch ទៅ Tab នៃ platform ដែលទើបបន្ថែម/កែ ដើម្បីឱ្យឃើញ row ភ្លាមៗ",
+    "🧽 Auto-clear Folder/Search filter បើពួកវានឹងលាក់ profile ថ្មី",
+    "�🗂️ ប្តូរ Customer → Folder គ្រប់ទីកន្លែង (Sidebar, Filter, Dialog, Table, Export)",
     "🧹 លុប Tab ដែលមិនចាំបាច់៖ Chrome (all), YouTube, X/Twitter, LinkedIn, WhatsApp, Other",
-    "✨ Tab Buttons ធំជាងមុន + 3D Effect ស្អាតជាមុន (Highlight + Shadow + Pressed state)",
-    "� ប៊ូតុង Sidebar ប្តូរពី 'Create Customer' ទៅ 'Create Folder'",
-    "� Telegram នៅជា Tab ឯកោខាងចុង រក្សាការគ្រប់គ្រងគណនី Telegram"
+    "✨ Tab Buttons ធំជាងមុន + 3D Effect (Highlight + Shadow + Pressed state)"
   ]
 }
